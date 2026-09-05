@@ -35,3 +35,35 @@
 ### 📊 Estadísticas de GitHub
 
 [![Estadísticas de dcvizama](https://github-readme-stats.vercel.app/api?username=dcvizama&show_icons=true&theme=radical&hide_border=true)](https://github.com/dcvizama)
+### ♾️ DevOps
+
+<p align="left"> 
+  <a href="https://www.docker.com/" target="_blank"> 
+   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
+  </a>   
+  
+  <a href="https://kubernetes.io/" target="_blank">
+    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white">
+  </a> 
+  
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/" target="_blank"> 
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
+  </a>
+</p>
+
+### 🎛️ Operating Systems
+
+<p align="left"> 
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
+  </a>
+
+  <!-- Mantén Ubuntu o CentOS solo si las usaste en tus VMs -->
+  <a href="https://ubuntu.com/" target="_blank"> 
+    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
+  </a>
+</p>
