@@ -6,7 +6,7 @@
 <hr>
 
 <div align="center">
-  <img align="right" alt="Coding GIF" width="220" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+  <img align="right" alt="Linux Penguin" width="220" src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" />
 </div>
 
 ### 👩🏻‍💻 Sobre mí
